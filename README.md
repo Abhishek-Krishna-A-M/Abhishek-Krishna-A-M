@@ -1,6 +1,15 @@
 ## Hi there, I'm Abhishek Krishna
 ![](https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&color=blue)
 
+### 📫 Connect with me
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/617408085371387915)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abishek_krshna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-krishna-a-m-137895328)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkrishna2k6@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8075656775)
+
+
 <h3>My dev Arsenal</h3>
 
 <p>
