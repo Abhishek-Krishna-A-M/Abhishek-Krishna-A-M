@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Abhishek Krishna  
 
 ### 🚀 About Me  
-💻 Backend & Full-Stack developer | Systems & Cybersecurity enthusiast  
-⚡ Linux lover — breaking things, fixing them smarter  
+💻 Backend-focused Full-Stack developer | Systems & Cybersecurity enthusiast  
+⚡ Loves tinkering, breaking things & fixing it better  
 🌱 Exploring open-source, building cool stuff, and learning every day  
 
 ![](https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&color=blue)
