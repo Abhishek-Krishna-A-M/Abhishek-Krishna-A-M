@@ -1,4 +1,10 @@
 ## 👋🏻Hi there, I'm Abhishek Krishna
+
+### 👨‍💻 About Me  
+- Backend, systems & security enthusiast ⚙️  
+- Breaking and fixing… on repeat 😅  
+- Exploring open-source and building cool stuff 🚀
+
 ![](https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&color=blue)
 
 ### 📫 Connect with me
