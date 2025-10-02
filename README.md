@@ -1,9 +1,11 @@
-### Hi there, I'm Abhishek Krishna
+## Hi there, I'm Abhishek Krishna
 ![](https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&color=blue)
-<h3>Tech Stack</h3>
+
+<h3>My dev Arsenal</h3>
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=lua&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -33,3 +35,9 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
+
+<h3>Github stats</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Krishna-A-M&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Krishna-A-M&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
