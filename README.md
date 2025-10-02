@@ -1,7 +1,7 @@
 ## Hi there, I'm Abhishek Krishna
 ![](https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&color=blue)
 
-<h3>My dev Arsenal</h3>
+###My dev Arsenal
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
@@ -36,7 +36,7 @@
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
-<h3>Github stats</h3>
+###Github stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Krishna-A-M&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
