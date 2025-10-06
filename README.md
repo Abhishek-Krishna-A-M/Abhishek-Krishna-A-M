@@ -25,9 +25,10 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Krishna-A-M&theme=highcontrast&hide_border=true&background=151515&ring=fb4362&fire=fb4362&currStreakLabel=fb4362&sideNums=9e9e9e&sideLabels=9e9e9e&dates=9e9e9e)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Krishna-A-M)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Krishna-A-M&show_icons=true&hide_border=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Krishna-A-M&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=fb4362&text_color=9e9e9e)
+
 
 
 ---
