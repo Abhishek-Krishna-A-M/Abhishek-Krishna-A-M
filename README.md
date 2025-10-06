@@ -25,7 +25,7 @@
 ---
 
 ### 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhishek-Krishna-A-M)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abhishek-Krishna-A-M&theme=youtube-dark" alt="GitHub Streak" /></a>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Krishna-A-M&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e)
 
