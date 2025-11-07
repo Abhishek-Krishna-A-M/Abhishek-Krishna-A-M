@@ -66,16 +66,6 @@
 
 ### 📊 GitHub Stats  
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Krishna-A-M&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Krishna-A-M&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Krishna-A-M&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Abhishek-Krishna-A-M&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Abhishek-Krishna-A-M&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Krishna-A-M&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
