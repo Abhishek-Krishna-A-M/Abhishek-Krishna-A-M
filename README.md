@@ -5,7 +5,7 @@
 ⚡ Loves tinkering, breaking things & fixing it better  
 🌱 Exploring open-source, building cool stuff, and learning every day  
 
-![](https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&color=blue&style=flat-square&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ---
 
