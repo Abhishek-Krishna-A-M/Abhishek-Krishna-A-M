@@ -9,6 +9,19 @@
 
 ---
 
+### 🟢 My Daily Developer Uptime
+
+| Activity | Focus |
+|---------|--------|
+| 🐧 Arch Linux | rice, configs, optimizations |
+| 🌐 Web Dev | building features, fixing issues, small projects |
+| ⚙️ Dev Setup | dotfiles, tooling, workflow tweaks |
+| 🧰 Personal Tools | CLI tools, automation, scripts |
+| 🔍 Experiments | backend ideas, protocols, system behavior |
+| 🛡️ Cybersecurity | testing, learning, breaking & understanding |
+
+---
+
 ### 📫 Connect with me  
 [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/617408085371387915)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abishek_krshna)
@@ -18,7 +31,7 @@
 
 ---
 
-### Enjoy my work?
+### ☕ Support My Work
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/abhishekkrishna)
 
 ---
