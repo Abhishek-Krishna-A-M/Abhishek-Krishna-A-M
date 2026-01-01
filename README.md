@@ -85,6 +85,6 @@
 
 ### 📊 GitHub Stats  
 
-[![GitHub Streak](https://github-readme-streak-stats-w194.vercel.app?user=Abhishek-Krishna-A-M&theme=dark)](https://git.io/streak-stats) <br/> 
+[![GitHub Streak](https://github-readme-streak-stats-w194.vercel.app?user=Abhishek-Krishna-A-M&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
