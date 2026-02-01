@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Abhishek Krishna  
 
+> `curl -sL abhishekkrishna.vercel.app/index.sh | bash`
+
 ## 🚀 About Me  
 💻 **Backend-focused Full-Stack Developer** | Systems & Cybersecurity enthusiast  
 ⚡ Loves tinkering, breaking things & fixing it better  
