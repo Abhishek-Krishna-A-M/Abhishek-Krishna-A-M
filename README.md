@@ -1,11 +1,16 @@
 # 👋 Hey, I'm Abhishek Krishna  
 
 ## 🚀 About Me  
-💻 Backend-focused Full-Stack developer | Systems & Cybersecurity enthusiast  
+💻 **Backend-focused Full-Stack Developer** | Systems & Cybersecurity enthusiast  
 ⚡ Loves tinkering, breaking things & fixing it better  
 🌱 Exploring open-source, building cool stuff, and learning every day  
 
-<img src="https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&style=flat-square&color=blue" alt=""/>
+<p align="left">
+  <a href="https://abhishekkrishna.vercel.app/">
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&style=flat-square&color=blue" alt="Views"/>
+</p>
 
 ---
 
@@ -19,20 +24,6 @@
 | 🧰 Personal Tools | CLI tools, automation, scripts |
 | 🔍 Experiments | backend ideas, protocols, system behavior |
 | 🛡️ Cybersecurity | testing, learning, breaking & understanding |
-
----
-
-## 📫 Connect with me  
-[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/617408085371387915)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abishek_krshna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-krishna-a-m-137895328)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkrishna2k6@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8075656775)
-
----
-
-## ☕ Support My Work
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/abhishekkrishna)
 
 ---
 
@@ -78,7 +69,18 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📫 Connect with me  
+[![Discord](https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/617408085371387915)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abishek_krshna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-krishna-a-m-137895328)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkrishna2k6@gmail.com)
+
+---
+
+## 📊 Activity Streak  
 [![GitHub Streak](https://github-readme-streak-stats-w194.vercel.app?user=Abhishek-Krishna-A-M&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ---
+
+## ☕ Support My Work
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/abhishekkrishna)
