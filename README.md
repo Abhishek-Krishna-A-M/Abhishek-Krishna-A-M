@@ -7,7 +7,7 @@
 
 <p align="left">
   <a href="https://abhishekkrishna.vercel.app/">
-    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&style=flat-square&color=blue" alt="Views"/>
 </p>
