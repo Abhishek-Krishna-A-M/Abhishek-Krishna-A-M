@@ -20,7 +20,7 @@
 
 | Activity | Focus |
 |---------|--------|
-| 🐧 Arch Linux | rice, configs, optimizations |
+| 🐧 Artix Linux | rice, configs, optimizations |
 | 🌐 Web Dev | building features, fixing issues, small projects |
 | ⚙️ Dev Setup | dotfiles, tooling, workflow tweaks |
 | 🧰 Personal Tools | CLI tools, automation, scripts |
