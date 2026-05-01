@@ -99,7 +99,7 @@ Analyzes past papers, surfaces frequent topics, generates predictions aligned to
 
 ---
 
-### 🛠️ Tools I Use Daily — Built Them Myself
+### 🛠️ Tools I Use Daily — Built Them For Myself
 
 <table>
 <tr>
