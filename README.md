@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Abhishek Krishna  
+# Hey, I'm Abhishek Krishna  
 
 > `curl -sL abhishekkrishna.vercel.app/index.sh | bash`
 
-## 🚀 About Me  
-💻 **Backend-focused Full-Stack Developer** | Systems & Cybersecurity enthusiast  
-⚡ Loves tinkering, breaking things & fixing it better  
-🌱 Exploring open-source, building cool stuff, and learning every day  
+## About Me  
+ **Backend-focused Full-Stack Developer** | Systems & Cybersecurity enthusiast  
+ Loves tinkering, breaking things & fixing it better  
+ Exploring open-source, building cool stuff, and learning every day  
 
 <p align="left">
   <a href="https://abhishekkrishna.vercel.app/">
@@ -16,22 +16,22 @@
 
 ---
 
-## 🟢 My Daily Developer Uptime
+## My Daily Developer Uptime
 
 | Activity | Focus |
 |---------|--------|
-| 🐧 Artix Linux | rice, configs, optimizations |
-| 🌐 Web Dev | building features, fixing issues, small projects |
-| ⚙️ Dev Setup | dotfiles, tooling, workflow tweaks |
-| 🧰 Personal Tools | CLI tools, automation, scripts |
-| 🔍 Experiments | backend ideas, protocols, system behavior |
-| 🛡️ Cybersecurity | testing, learning, breaking & understanding |
+| Artix Linux | rice, configs, optimizations |
+| Web Dev | building features, fixing issues, small projects |
+| Dev Setup | dotfiles, tooling, workflow tweaks |
+| Personal Tools | CLI tools, automation, scripts |
+| Experiments | backend ideas, protocols, system behavior |
+| Cybersecurity | testing, learning, breaking & understanding |
 
 ---
 
-## 🛠️ My Dev Arsenal  
+## My Dev Arsenal  
 
-### 💻 Languages & Systems
+### Languages & Systems
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -41,7 +41,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🌐 Backend & Databases
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -52,7 +52,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-### 🎨 Frontend & UI
+### Frontend & UI
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -61,7 +61,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### ⚙️ DevOps & Tools
+### DevOps & Tools
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -72,17 +72,16 @@
 
 ---
 
-## 📫 Connect with me  
+## Connect with me  
 [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/617408085371387915)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-krishna-a-m-137895328)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkrishna2k6@gmail.com)
 
 ---
 
-## 📊 Activity Streak  
+## Activity Streak  
 [![GitHub Streak](https://github-readme-streak-stats-w194.vercel.app?user=Abhishek-Krishna-A-M&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ---
 
-## ☕ Support My Work
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/abhishekkrishna)
