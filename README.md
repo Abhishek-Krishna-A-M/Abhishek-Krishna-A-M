@@ -129,7 +129,7 @@ My personal notes app. Auto-syncs to Git, renders Markdown in terminal, ships as
 <tr>
 <td colspan="2" valign="top">
 
-**[GPad Minimal Launcher](https://github.com/Abhishek-Krishna-A-M/minimal-launcher)**  
+**[Minimal Launcher](https://github.com/Abhishek-Krishna-A-M/minimal-launcher)**  
 Terminal-style Android launcher — my actual daily driver phone
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
