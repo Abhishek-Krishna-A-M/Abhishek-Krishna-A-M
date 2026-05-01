@@ -1,4 +1,4 @@
-# Hey, I'm Abhishek Krishna  
+# I'm Abhishek Krishna  
 
 > `curl -sL abhishekkrishna.vercel.app/index.sh | bash`
 
@@ -29,7 +29,7 @@
 
 ---
 
-## My Dev Arsenal  
+## Tech Stack  
 
 ### Languages & Systems
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
