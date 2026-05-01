@@ -22,15 +22,15 @@ curl -sL abhishekkrishna.vercel.app/index.sh | bash
 
 ---
 
-## ⚡ What I'm About
+## What I'm About
 
 I build backends and daily-drive the tools I make. If something in my workflow is annoying, I build a replacement. If something looks interesting, I break it open to see how it works. I find problems, architect solutions, and ship the apps to solve them.
 
 ---
 
-## 📅 Daily Developer Uptime
+## Daily Developer Uptime
 
-| 🖥️ Activity | 🔧 Focus |
+| Activity | Focus |
 |------------|---------|
 | **Artix Linux** | Rice, configs, optimizations |
 | **Web Dev** | Building features, backend APIs, real projects |
@@ -41,9 +41,9 @@ I build backends and daily-drive the tools I make. If something in my workflow i
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🌐 Shipped — Real Users, Production Systems
+### Shipped - Real Users, Production Systems
 
 <table>
 <tr>
@@ -99,13 +99,13 @@ Analyzes past papers, surfaces frequent topics, generates predictions aligned to
 
 ---
 
-### 🛠️ Tools I Use Daily — Built Them For Myself
+### Tools I Use Daily - Built Them For Myself
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[QFS — Quick File Sender](https://github.com/Abhishek-Krishna-A-M/quick_file_sender)**  
+**[QFS - Quick File Sender](https://github.com/Abhishek-Krishna-A-M/quick_file_sender)**  
 Terminal file transfer via QR code
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -136,7 +136,7 @@ Terminal-style Android launcher — my actual daily driver phone
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhishek-Krishna-A-M/minimal-launcher)
 
-**15–20 MB RAM.** Keyboard-first with custom fuzzy search, command-based app management, dialing, system utilities. Event-driven architecture — no background services, no polling. Built because every launcher felt bloated.
+**15-20 MB RAM.** Keyboard-first with custom fuzzy search, command-based app management, dialing, system utilities. Event-driven architecture — no background services, no polling. Built because every launcher felt bloated.
 
 </td>
 </tr>
@@ -144,7 +144,7 @@ Terminal-style Android launcher — my actual daily driver phone
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Period | Role | Stack |
 |--------|------|-------|
@@ -153,7 +153,7 @@ Terminal-style Android launcher — my actual daily driver phone
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages & Systems
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -198,7 +198,7 @@ Terminal-style Android launcher — my actual daily driver phone
 
 ---
 
-## 🔥 Activity Streak
+## Activity Streak
 
 [![GitHub Streak](https://github-readme-streak-stats-w194.vercel.app?user=Abhishek-Krishna-A-M&theme=github-dark-blue)](https://git.io/streak-stats)
 
