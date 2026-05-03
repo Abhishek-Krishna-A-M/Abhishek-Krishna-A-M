@@ -1,6 +1,10 @@
 <div align="center">
 
-# Abhishek Krishna A M
+<p align="center">
+  <img src="logo.png" width="400" alt="AK Logo">
+</p>
+
+ # Abhishek Krishna A M
 
 `min resource, max output`
 
