@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="logo_ak.png" width="200" alt="AK Logo">
+  <img src="logo_ak.svg" width="200" alt="AK Logo">
 </p>
 
 # Abhishek Krishna A M
