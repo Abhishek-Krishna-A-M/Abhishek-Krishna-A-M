@@ -8,94 +8,84 @@
 
 `min resource, max output`
 
-**Backend Developer · Systems Tinkerer · CLI Nerd · Linux Lover** 
-
+**Backend Developer · Systems Builder · Linux**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekkrishna.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-krishna-a-m-137895328)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkrishna2k6@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/617408085371387915)
-[![Views](https://komarev.com/ghpvc/?username=Abhishek-Krishna-A-M&style=for-the-badge&color=blue)](https://github.com/Abhishek-Krishna-A-M)
-
-
-```bash
-curl -sL abhishekkrishna.vercel.app/index.sh | bash
-```
 
 </div>
 
----
-
-## What I'm About
-
-I build backends and daily-drive the tools I make. If something in my workflow is annoying, I build a replacement. If something looks interesting, I break it open to see how it works. I find problems, architect solutions, and ship the apps to solve them.
+I build backends and daily-drive the tools I make. If something in my workflow is annoying, I build a replacement.
 
 ---
 
-## Daily Developer Uptime
+## Daily Uptime
 
-| Activity | Focus |
-|------------|---------|
-| **Artix Linux** | Rice, configs, optimizations |
-| **Web Dev** | Building features, backend APIs, real projects |
-| **Dev Setup** | Dotfiles, tooling, workflow tweaks |
-| **Personal Tools** | CLI tools, automation, binaries |
-| **Experiments** | Backend ideas, protocols, system behavior |
-| **System Security** | Security hardening, cautious networking, privacy-first configs |
+| | |
+|---|---|
+| **OS** | Artix Linux — no systemd, no noise |
+| **Editor** | Neovim — configured from scratch |
+| **WM** | UWM — my own Wayland compositor |
+| **Shell** | Bash + custom scripts for everything repetitive |
+| **Backend** | APIs, auth systems, real-time features, storage pipelines |
+| **Systems** | C, low-level tooling, protocol design |
+| **Security** | Privacy-first configs, hardened networking |
 
 ---
 
 ## Projects
 
-### Shipped - Real Users, Production Systems
+### Shipped — Real Users
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Btechified](https://github.com/Abhishek-Krishna-A-M)**  
-EdTech video platform with time-gated access
+**[Btechified](https://github.com/Abhishek-Krishna-A-M/Btechified)**
+EdTech video platform — time-gated access, live students
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-Cloudflare R2 + edge functions for time-gated video. Google OAuth, JWT, and Supabase RLS. Real students used this.
+Cloudflare R2 + edge functions for video delivery. Google OAuth, JWT, Supabase RLS.
 
 </td>
 <td width="50%" valign="top">
 
-**[Staffo](https://github.com/Abhishek-Krishna-A-M/Staffo)**  
-Live campus staff locating system
+**[Staffo](https://github.com/Abhishek-Krishna-A-M/Staffo)**
+Real-time campus staff locator — live on campus
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Lets students find staff, rooms, and schedules in real time. Admin panel with search by name, dept, or subject. Live on campus.
+Find staff by name, dept, or subject. Admin panel included.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Arts App 2025](https://github.com/Abhishek-Krishna-A-M)**  
+**[Arts App 2025](https://github.com/Abhishek-Krishna-A-M/arts_app_2025)**
 Arts fest management — ran live on event day
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Live registration, real-time result publishing, role-based admin access. Handled actual participants on the day.
+Live registration, real-time results, role-based admin access.
 
 </td>
 <td width="50%" valign="top">
 
-**[Questlytics](https://github.com/Abhishek-Krishna-A-M/questlytics)**  
-AI-powered exam paper analyzer
+**[Questlytics](https://github.com/Abhishek-Krishna-A-M/questlytics)**
+AI exam paper analyzer
 
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
-Analyzes past papers, surfaces frequent topics, generates predictions aligned to syllabus.
+Surfaces frequent topics from past papers, generates syllabus-aligned predictions.
 
 </td>
 </tr>
@@ -103,44 +93,51 @@ Analyzes past papers, surfaces frequent topics, generates predictions aligned to
 
 ---
 
-### Tools I Use Daily - Built Them For Myself
+### Tools — Built and Use Daily
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[QFS - Quick File Sender](https://github.com/Abhishek-Krishna-A-M/quick_file_sender)**  
-Terminal file transfer via QR code
+**[UWM](https://github.com/Abhishek-Krishna-A-M/UWM)**
+BSP Wayland compositor
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhishek-Krishna-A-M/quick_file_sender)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
-Spins up a temp HTTP server, auto-detects local IP, renders a QR code. Point your phone — done. Bi-directional transfers, zips folders on-the-fly, embedded browser UI, zero install on receiver end, auto-shuts down after transfer.
+Built on wlroots. BSP, tabbed, monocle, and floating layouts. Multi-monitor hotplug, unfocus dimming, per-window opacity, custom bar protocol (`zwp_uwm_bar_v1`).
 
 </td>
 <td width="50%" valign="top">
 
-**[gpad](https://github.com/Abhishek-Krishna-A-M/gpad)**  
-Git-backed CLI markdown notes manager
+**[QFS](https://github.com/Abhishek-Krishna-A-M/quick_file_sender)**
+Terminal file transfer via QR code
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhishek-Krishna-A-M/gpad)
 
-My personal notes app. Auto-syncs to Git, renders Markdown in terminal, ships as a single static binary for Linux, macOS, and Windows. Built because nothing else was fast enough.
+Spins a temp HTTP server, auto-detects local IP, renders QR. Bi-directional, zips folders, zero install on receiver.
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-**[Minimal Launcher](https://github.com/Abhishek-Krishna-A-M/minimal-launcher)**  
-Terminal-style Android launcher — my actual daily driver phone
+**[gpad](https://github.com/Abhishek-Krishna-A-M/gpad)**
+Git-backed CLI markdown notes
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+Auto-syncs to Git, renders Markdown in terminal. Single static binary for Linux, macOS, Windows.
+
+</td>
+<td width="50%" valign="top">
+
+**[Minimal Launcher](https://github.com/Abhishek-Krishna-A-M/minimal-launcher)**
+Terminal-style Android launcher — my daily driver
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhishek-Krishna-A-M/minimal-launcher)
 
-**15-20 MB RAM.** Keyboard-first with custom fuzzy search, command-based app management, dialing, system utilities. Event-driven architecture — no background services, no polling. Built because every launcher felt bloated.
+**15–20 MB RAM.** Keyboard-first fuzzy search, event-driven — no background services, no polling.
 
 </td>
 </tr>
@@ -152,12 +149,13 @@ Terminal-style Android launcher — my actual daily driver phone
 
 | Period | Role | Stack |
 |--------|------|-------|
-| **Jun 2025 – Jul 2025** | Backend Developer Intern · The Nexus Project | Node.js · Express.js · Supabase · REST APIs |
-| **Nov 2025 – Mar 2026** | Backend-Focused Web Dev · Btechified | Node.js · Supabase · Cloudflare R2 · JWT · OAuth |
+| **May 2026 – Jun 2026** | Backend Developer Intern · Docwo · 🏆 Best Backend Developer | Node.js · Express · PostgreSQL · MinIO · Socket.io |
+| **Nov 2025 – Mar 2026** | Backend Web Dev · Btechified — video pipeline, auth system, Cloudflare R2 | Node.js · Supabase · JWT · OAuth |
+| **Jun 2025 – Jul 2025** | Backend Developer Intern · The Nexus Project | Node.js · Express.js · Supabase |
 
 ---
 
-## Tech Stack
+## Stack
 
 ### Languages & Systems
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -179,6 +177,7 @@ Terminal-style Android launcher — my actual daily driver phone
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![MinIO](https://img.shields.io/badge/-MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 
 ### Frontend & Mobile
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -202,8 +201,6 @@ Terminal-style Android launcher — my actual daily driver phone
 
 ---
 
-## Activity Streak
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-w194.vercel.app?user=Abhishek-Krishna-A-M&theme=github-dark-blue">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-w194.vercel.app?user=Abhishek-Krishna-A-M&theme=meta-light">
@@ -214,7 +211,7 @@ Terminal-style Android launcher — my actual daily driver phone
 
 <div align="center">
 
-*Daily driver: Artix Linux · Neovim · a terminal for everything that can be a terminal*
+*Artix Linux · Neovim · a terminal for everything that can be a terminal*
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/abhishekkrishna)
 
