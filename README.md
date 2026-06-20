@@ -15,9 +15,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkrishna2k6@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/617408085371387915)
 
-</div>
+
 
 I build backends and daily-drive the tools I make. If something in my workflow is annoying, I build a replacement.
+</div>
 
 ---
 
@@ -104,7 +105,7 @@ BSP Wayland compositor
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
-Built on wlroots. BSP, tabbed, monocle, and floating layouts. Multi-monitor hotplug, unfocus dimming, per-window opacity, custom bar protocol (`zwp_uwm_bar_v1`).
+Built on wlroots. BSP, monocle, and floating layouts. Multi-monitor hotplug, unfocus dimming, per-window opacity, custom bar protocol (`zwp_uwm_bar_v1`).
 
 </td>
 <td width="50%" valign="top">
@@ -154,7 +155,6 @@ Terminal-style Android launcher — my daily driver
 | **Jun 2025 – Jul 2025** | Backend Developer Intern · The Nexus Project | Node.js · Express.js · Supabase |
 
 ---
-<div align="center">
   
 ## Stack
 
@@ -199,7 +199,6 @@ Terminal-style Android launcher — my daily driver
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220)
 ![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
-</div>
 
 ---
 
