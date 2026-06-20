@@ -154,7 +154,8 @@ Terminal-style Android launcher — my daily driver
 | **Jun 2025 – Jul 2025** | Backend Developer Intern · The Nexus Project | Node.js · Express.js · Supabase |
 
 ---
-
+<div align="center">
+  
 ## Stack
 
 ### Languages & Systems
@@ -200,7 +201,7 @@ Terminal-style Android launcher — my daily driver
 ![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 
 ---
-<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-w194.vercel.app?user=Abhishek-Krishna-A-M&theme=github-dark-blue">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-w194.vercel.app?user=Abhishek-Krishna-A-M&theme=meta-light">
