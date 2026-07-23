@@ -44,8 +44,10 @@ I build backends and daily-drive the tools I make. If something in my workflow i
 <tr>
 <td width="50%" valign="top">
 
-**[UWM](https://github.com/Abhishek-Krishna-A-M/UWM)**
-Wayland compositor written in C
+<details>
+<summary><b><a href="https://github.com/Abhishek-Krishna-A-M/UWM">UWM</a></b> — Wayland compositor written in C</summary>
+
+<br>
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
@@ -60,12 +62,16 @@ Built on **wlroots** with a custom BSP layout engine.
 - Per-window opacity & unfocus dimming
 - Daily-driver compositor on Artix Linux
 
+</details>
+
 </td>
 
 <td width="50%" valign="top">
 
-**[Minimal Launcher](https://github.com/Abhishek-Krishna-A-M/minimal-launcher)**
-Terminal-style Android launcher — my daily driver
+<details>
+<summary><b><a href="https://github.com/Abhishek-Krishna-A-M/minimal-launcher">Minimal Launcher</a></b> — Terminal Android launcher</summary>
+
+<br>
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
@@ -80,13 +86,17 @@ Designed for speed and minimal resource usage.
 - Terminal-inspired interface
 - Daily driver
 
+</details>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[QFS](https://github.com/Abhishek-Krishna-A-M/quick_file_sender)**
-Terminal file transfer via QR code
+<details>
+<summary><b><a href="https://github.com/Abhishek-Krishna-A-M/quick_file_sender">QFS</a></b> — Terminal file transfer via QR code</summary>
+
+<br>
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
@@ -98,11 +108,15 @@ Terminal file transfer via QR code
 - Bi-directional transfer
 - Zero installation required on receiver
 
+</details>
+
 </td>
 <td width="50%" valign="top">
 
-**[gpad](https://github.com/Abhishek-Krishna-A-M/gpad)**
-Git-backed CLI markdown notes
+<details>
+<summary><b><a href="https://github.com/Abhishek-Krishna-A-M/gpad">gpad</a></b> — Git-backed CLI markdown notes</summary>
+
+<br>
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
@@ -112,6 +126,8 @@ Git-backed CLI markdown notes
 - Single static binary
 - Linux, macOS & Windows support
 - Offline-first workflow
+
+</details>
 
 </td>
 </tr>
@@ -125,8 +141,10 @@ Git-backed CLI markdown notes
 <tr>
 <td width="50%" valign="top">
 
-**[Btechified](https://github.com/Abhishek-Krishna-A-M/Btechified)**
-EdTech video platform — time-gated access, live students
+<details>
+<summary><b><a href="https://github.com/Abhishek-Krishna-A-M/Btechified">Btechified</a></b> — EdTech video platform</summary>
+
+<br>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -140,11 +158,15 @@ EdTech video platform — time-gated access, live students
 - Edge Functions
 - Time-gated video delivery
 
+</details>
+
 </td>
 <td width="50%" valign="top">
 
-**[Staffo](https://github.com/Abhishek-Krishna-A-M/Staffo)**
-Real-time campus staff locator — live on campus
+<details>
+<summary><b><a href="https://github.com/Abhishek-Krishna-A-M/Staffo">Staffo</a></b> — Real-time campus staff locator</summary>
+
+<br>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -156,14 +178,17 @@ Real-time campus staff locator — live on campus
 - Real-time updates
 - Campus deployment
 
+</details>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Arts App 2025](https://github.com/Abhishek-Krishna-A-M/arts_app_2025)**
-Arts fest management — ran live on event day
+<details>
+<summary><b><a href="https://github.com/Abhishek-Krishna-A-M/arts_app_2025">Arts App 2025</a></b> — Arts fest management</summary>
+
+<br>
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -174,11 +199,15 @@ Arts fest management — ran live on event day
 - Role-based administration
 - Production deployment during event day
 
+</details>
+
 </td>
 <td width="50%" valign="top">
 
-**[Questlytics](https://github.com/Abhishek-Krishna-A-M/questlytics)**
-AI exam paper analyzer
+<details>
+<summary><b><a href="https://github.com/Abhishek-Krishna-A-M/questlytics">Questlytics</a></b> — AI exam paper analyzer</summary>
+
+<br>
 
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -188,6 +217,9 @@ AI exam paper analyzer
 - Topic frequency extraction
 - Syllabus-aware predictions
 - Historical paper processing
+
+</details>
+
 </td>
 </tr>
 </table>
