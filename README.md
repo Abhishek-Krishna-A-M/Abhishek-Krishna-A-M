@@ -230,6 +230,7 @@ Designed for speed and minimal resource usage.
 
 | Period | Role | Stack |
 |--------|------|-------|
+| **Nov 2026 – Present** | Backend Developer Intern · **Phottam.ai** | AWS Lambda · SQS · AWS Batch · CloudWatch · Serverless |
 | **Mar 2026 – Present** | Founder & CTO · **[Webernyx](https://webernyx.in)** | Product Engineering · Node.js · React · PostgreSQL · Cloud |
 | **May 2026 – Jun 2026** | Backend Developer Intern · Docwo · 🏆 Best Backend Developer | Node.js · Express · PostgreSQL · MinIO · Socket.io |
 | **Nov 2025 – Mar 2026** | Backend Developer · Btechified | Node.js · Supabase · JWT · OAuth |
