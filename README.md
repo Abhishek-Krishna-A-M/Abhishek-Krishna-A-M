@@ -26,7 +26,7 @@ I build backends and daily-drive the tools I make. If something in my workflow i
 
 | | |
 |---|---|
-| **OS** | Artix Linux — no systemd, no noise |
+| **OS** | Arch Linux — minimal, rolling release |
 | **Editor** | Neovim — configured from scratch |
 | **WM** | UWM — my own Wayland compositor |
 | **Shell** | Bash + custom scripts for everything repetitive |
